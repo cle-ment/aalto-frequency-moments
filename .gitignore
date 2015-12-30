@@ -3,3 +3,4 @@ clusterjobs/
 .ipynb_checkpoints/
 */.DS_Store
 results
+*_files
